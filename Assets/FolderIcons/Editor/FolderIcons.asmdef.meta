@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 877be62fd20bbdb489dd86ee21cee87d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Editor/FolderIcons.asmdef
+  uploadId: 677001

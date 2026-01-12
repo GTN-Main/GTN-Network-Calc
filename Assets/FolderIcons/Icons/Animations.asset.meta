@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69d1698df1299f740911010598613607
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/Animations.asset
+  uploadId: 677001

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8b931378647d6248a396b020f5d5f8b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/Presets.asset
+  uploadId: 677001

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4b37d088be144748acbf1f0239d904f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/Cinemachine.asset
+  uploadId: 677001

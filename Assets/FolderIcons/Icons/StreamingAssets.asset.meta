@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a6a8d170ea78f6419b52b1dd8e1c46c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/StreamingAssets.asset
+  uploadId: 677001

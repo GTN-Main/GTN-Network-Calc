@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b66cade02b701394ab6ee0da2301ab22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/Sprites.asset
+  uploadId: 677001

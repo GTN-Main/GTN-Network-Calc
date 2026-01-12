@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: debe52a1a1d362340a2b52fa65bf628a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/Documentation.asset
+  uploadId: 677001

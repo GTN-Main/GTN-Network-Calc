@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 123d9dea32df4f44292b1b6376235be4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/HDRP.asset
+  uploadId: 677001

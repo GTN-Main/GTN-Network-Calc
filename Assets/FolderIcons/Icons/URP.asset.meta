@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8db07a18081b88b4bbd956db0df8c67a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283403
+  packageName: Custom Folder Icons
+  packageVersion: 1.2.0
+  assetPath: Assets/FolderIcons/Icons/URP.asset
+  uploadId: 677001
