@@ -51,7 +51,8 @@ jobs:
     uses: GTN-Main/actions/.github/workflows/send-release-webhook.yml@main
 
   dispatchPagesDeploy:
-    needs: dispatchBuilds
+    needs: checkIfShouldSkip
+    if: needs.checkIfShouldSkip.outputs.should_skip != 'true' || startsWith(github.ref, 'refs/tags/')
     name: Deploy to GitHub Pages
     uses: GTN-Main/actions/.github/workflows/build-and-publish.yml@main
     secrets: inherit
