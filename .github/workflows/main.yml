@@ -55,3 +55,7 @@ jobs:
     name: Deploy to GitHub Pages
     uses: GTN-Main/actions/.github/workflows/build-and-publish.yml@main
     secrets: inherit
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
