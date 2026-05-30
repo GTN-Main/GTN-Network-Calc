@@ -31,6 +31,7 @@ jobs:
     needs: checkIfShouldSkip
     if: needs.checkIfShouldSkip.outputs.should_skip != 'true' || startsWith(github.ref, 'refs/tags/')
     name: Build
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     strategy:
       fail-fast: false
       matrix:
@@ -47,6 +48,7 @@ jobs:
   dispatchRelease:
     needs: dispatchBuilds
     name: Release
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     if: startsWith(github.ref, 'refs/tags/')
     uses: GTN-Main/actions/.github/workflows/send-release-webhook.yml@main
 
@@ -54,6 +56,7 @@ jobs:
     needs: checkIfShouldSkip
     if: needs.checkIfShouldSkip.outputs.should_skip != 'true' || startsWith(github.ref, 'refs/tags/')
     name: Deploy to GitHub Pages
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     uses: GTN-Main/actions/.github/workflows/build-and-publish.yml@main
     secrets: inherit
     permissions:
